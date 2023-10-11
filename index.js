@@ -5,9 +5,9 @@ import Parser from "rss-parser";
  * README.MD에 작성될 페이지 텍스트
  * @type {string}
  */
-let text = `# 🐰
+let text = `
 
-## 🔗 Latest Blog Posts
+## 💌 Latest Blog Posts
 
 `;
 
