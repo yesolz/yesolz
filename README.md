@@ -1,5 +1,3 @@
-# 🐰
-
-## 🔗 Latest Blog Posts
+## 💌 Latest Blog Posts
 
 <a href=https://yesolz.tistory.com/entry/%EC%BD%94%ED%85%8C%EB%A5%BC-%EC%9C%84%ED%95%9C-%ED%8C%8C%EC%9D%B4%EC%8D%AC-6-%EC%A3%BC%EC%9A%94-%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC%EC%9D%98-%EB%AC%B8%EB%B2%95%EA%B3%BC-%EC%9C%A0%EC%9D%98%EC%A0%90>[코테를 위한 파이썬] 6. 주요 라이브러리의 문법과 유의점</a></br><a href=https://yesolz.tistory.com/entry/Python-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EB%B9%84%EB%B0%80%EC%A7%80%EB%8F%84>[Python] 프로그래머스 | 비밀지도</a></br><a href=https://yesolz.tistory.com/entry/Python-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EC%88%AB%EC%9E%90-%EC%A7%9D%EA%BF%8D>[Python] 프로그래머스 | 숫자 짝꿍</a></br><a href=https://yesolz.tistory.com/entry/Python-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-x%EB%A7%8C%ED%81%BC-%EA%B0%84%EA%B2%A9%EC%9D%B4-%EC%9E%88%EB%8A%94-n%EA%B0%9C%EC%9D%98-%EC%88%AB%EC%9E%90>[Python] 프로그래머스 | x만큼 간격이 있는 n개의 숫자</a></br><a href=https://yesolz.tistory.com/entry/JSX-input-%ED%83%9C%EA%B7%B8-%EC%8B%9C%EA%B0%84-%EC%B4%88%EA%B9%8C%EC%A7%80-%EC%9E%85%EB%A0%A5-%EB%B0%9B%EA%B8%B0>JSX | input 태그 시간 초까지 입력 받기</a></br>
