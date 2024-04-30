@@ -1,4 +1,4 @@
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Jersey+25&size=40&pause=1000&color=F7F7F7&background=52C7FFD1&center=true&vCenter=true&random=false&width=500&height=70&lines=Hi+there!+%F0%9F%91%8B%F0%9F%8F%BB;I'm+Yaesol+Choi.)](https://git.io/typing-svg)
 
 ## 💌 Latest Blog Posts
 
