@@ -7,6 +7,8 @@ on:
   # 하루에 한번 아래 스크립트를 실행한다.
   schedule:
     - cron: "0 0 */1 * *"
+  # 수동으로 실행할 수 있는 트리거 추가
+  workflow_dispatch:
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
   # This workflow contains a single job called "build"
