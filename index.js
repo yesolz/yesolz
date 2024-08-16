@@ -7,6 +7,10 @@ import Parser from "rss-parser";
  */
 let text = `
 
+![header](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Hello%20!&textBg=false&fontSize=70&animation=blink&section=header&reversal=false)
+
+🚀 I'm a developer who is always eager to grow !
+
 ## 💌 Latest Blog Posts
 
 `;
